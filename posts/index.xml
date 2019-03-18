@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on C Blog</title>
+        <link>https://creedasaurus.github.io/posts/</link>
+        <description>Recent content in Posts on C Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <atom:link href="https://creedasaurus.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title></title>
+            <link>https://creedasaurus.github.io/posts/test_first_post/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            
+            <guid>https://creedasaurus.github.io/posts/test_first_post/</guid>
+            <description> This is the title this is a section a := 123 fmt.Println(a)  anther </description>
+            <content type="html"><![CDATA[
+
+<h1 id="this-is-the-title">This is the title</h1>
+
+<h3 id="this-is-a-section">this is a section</h3>
+
+<pre><code class="language-go">a := 123
+fmt.Println(a)
+</code></pre>
+
+<h3 id="anther">anther</h3>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

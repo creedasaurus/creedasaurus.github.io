@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://creedasaurus.github.io/posts/test_first_post/</loc>
+  </url>
+  
+  <url>
     <loc>https://creedasaurus.github.io/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://creedasaurus.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://creedasaurus.github.io/posts/</loc>
     <priority>0</priority>
   </url>
   
